@@ -18,8 +18,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 ```
-Developed by: BHUVANESHWAR V
-Reg No: 212221240009
+Developed by: SEXWIN
+Reg No: 212221230008
 ```
 ## Data Pre-Processing
 
