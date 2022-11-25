@@ -18,8 +18,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 ```
-Developed by: Senthil Kumar S
-Reg No: 212221230091
+Developed by: BHUVANESHWAR V
+Reg No: 212221240009
 ```
 ## Data Pre-Processing
 
