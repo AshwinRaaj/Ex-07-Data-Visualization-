@@ -209,7 +209,7 @@ df_corr.corr()
 
 # OUPUT
 ## Data Pre-Processing
-![Df](./out/df.png)</br>
+![Df](./df.png)</br>
 ![Df](./out/head.png)</br>
 ![Df](./out/info.png)</br>
 ![Df](./out/null.png)</br>
